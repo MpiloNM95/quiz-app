@@ -8,13 +8,13 @@ import { handleAmountChange, handleScoreChange } from "../redux/actions";
 const FinalScreen = () => {
   const dispatch = useDispatch();
   const navigate = useNavigate();
-  const { score } = useSelector(state => state);
+  const { score } = useSelector((state) => state);
 
   const handleBackToSettings = () => {
     dispatch(handleScoreChange(0));
     dispatch(handleAmountChange(50));
     navigate("/");
-  }
+  };
 
   return (
     <Box mt={30}>
@@ -25,7 +25,7 @@ const FinalScreen = () => {
         back to settings!
       </Button>
     </Box>
-  )
-}
+  );
+};
 
 export default FinalScreen;

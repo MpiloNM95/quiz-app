@@ -23,4 +23,4 @@ const useAxios = ({ url }) => {
     return { response, error, loading }
 }
 
-export default useAxios
+export default useAxios;

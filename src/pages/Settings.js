@@ -53,7 +53,7 @@ const Settings = () => {
         </Button>
       </Box>
     </form>
-  )
+  );
 }
 
-export default Settings
+export default Settings;
