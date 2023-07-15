@@ -48,7 +48,10 @@ yarn add html-entities
 OR
 npm install html-entities
 ```
-## Usage
+* The trivia api used to for the quiz application comes from this site
+```
+https://opentdb.com/api_config.php
+```
 ## Contributing
 Anyone is welcome to contribute to this project. Cant wait to see where you take it in near future
 ## Related Projects

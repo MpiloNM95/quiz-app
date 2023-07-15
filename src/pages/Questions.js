@@ -20,7 +20,7 @@ const Questions = () => {
     question_type,
     amount_of_question,
     score
-  } = useSelector(state => state);
+  } = useSelector((state) => state);
   const navigate = useNavigate();
   const dispatch = useDispatch();
 
