@@ -1,6 +1,7 @@
 import { Button, Typography } from "@mui/material"
-import { Box } from "@mui/system"
-import { useDispatch, useSelector } from "react-redux"
+import { Box } from "@mui/system";
+import { useSelector } from "react-redux";
+import { useDispatch } from "react-redux";
 import { useNavigate } from "react-router-dom";
 import { handleAmountChange, handleScoreChange } from "../redux/actions";
 

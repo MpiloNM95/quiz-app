@@ -3,7 +3,7 @@ import {
     CHANGE_DIFFICULTY,
     CHANGE_AMOUNT,
     CHANGE_TYPE,
-    CHANGE_SCORE
+    CHANGE_SCORE,
 } from "./actionsTypes";
 
 export const handleCategoryChange = payload => ({
