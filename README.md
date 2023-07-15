@@ -56,8 +56,6 @@ https://opentdb.com/api_config.php
 ```
 ## Contributing
 Anyone is welcome to contribute to this project. Cant wait to see where you take it in near future
-## Related Projects
-## Licensing
 ## Deployment Tools
 [Vercel](https://vercel.com) is the deployment tool used for this application. Great platform for hobby projects and you only pay when you are buying a domain name other vercel generates a domain name for you.
 ---
