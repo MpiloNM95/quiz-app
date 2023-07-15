@@ -1,6 +1,6 @@
 # QUIZ APP
 <img
-src="./img/Desktop.png"
+src="../img/Desktop.png"
 raw="true"
 />
 ## Introduction
