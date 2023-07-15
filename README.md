@@ -1,4 +1,8 @@
-# QUIZ
+# QUIZ APP
+<img
+src="./img/Desktop.png"
+raw="true"
+/>
 ## Introduction
 I love quizzes so figured i would create a simple quiz game that can be played by anyone and allows them to set their own difficulty and choose their own category which are generated trivia
 ## Installation
